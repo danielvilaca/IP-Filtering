@@ -6,6 +6,8 @@
 <p align="center">Make sure to have a working API key. The current one only has 1000 daily requests, used for small tests.</p>
 <p align="center">Feel free to change the API Provider!</p>
 
+<br>
+
 <p align="center">
 
   <img src = "https://github.com/user-attachments/assets/8c10e943-c14c-435c-b802-5ec60461c4e8">
