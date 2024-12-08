@@ -4,6 +4,7 @@
 <br>
 
 <p align="center">Make sure to have a working API key. The current one only has 1000 daily requests, used for small tests.</p>
+<p align="center">The sshd log file is not shared since it can contain sensitive information</p>
 <p align="center">Feel free to change the API Provider!</p>
 
 <br>
